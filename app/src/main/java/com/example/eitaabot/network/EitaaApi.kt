@@ -5,7 +5,7 @@ import retrofit2.http.GET
 interface EitaaApi {
 
     @GET("getMe")
-    suspend fun getInfo() : Response<GetMe>
+    suspend fun g etInfo() : Response<GetMe>
 
 
 
