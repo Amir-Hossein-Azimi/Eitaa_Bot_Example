@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:icon="@drawable/ic_send_file"
+      android:id="@+id/fragment_send_file"
+      android:title="ارسال فایل"/>
+  <item
+      android:icon="@drawable/ic_info"
+      android:id="@+id/fragment_information"
+      android:title="اطلاعات شما"/>
+  <item
+      android:icon="@drawable/ic_send"
+      android:id="@+id/fragment_send_massage"
+      android:title="ارسال پیام"/>
+
+
+
+</menu>
